@@ -1,5 +1,13 @@
 # The Rhyme Replacer
-Command line Python program replacing words in a source text with rhyming ones taken from a database.
+Command line Python program replacing words in a source text with rhyming ones taken from a database. So you can go from something like this:
+
+        This poem is not very good,
+        I hope that it is understood.
+
+to something like this:
+
+        THIS JEROBOAM SAYS CLOT BARRIE OUTBID,
+        GUY SCOPE THAT REFIT WIZ GOOD.
 
 ## You will need
 * Python3
